@@ -13,3 +13,7 @@ func main() {
 	anybar.Send("white")
 }
 ```
+
+
+## thanks
+github.com/johntdyer/anybar-go
